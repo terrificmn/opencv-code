@@ -1,3 +1,9 @@
+data
+data2
+data3
+data4/images
+data4/video
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
